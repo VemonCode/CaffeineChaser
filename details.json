@@ -1,0 +1,3 @@
+{
+    "Find Place Request": "https://maps.googleapis.com/maps/api/place/nearbysearch/json?key=YOUR_API_KEY&input=coffee&inputtype=textquery&locationbias"
+}
