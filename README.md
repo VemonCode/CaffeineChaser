@@ -1,4 +1,4 @@
-# CoffeineChaser
+# CaffeineChaser
 Working on a project that shows me the nearest coffee shops.
 
 Note that in the details.json file, any thing that is all-caps, is user identified. Mainly because I don't want to leak my adress and API key. 
